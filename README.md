@@ -255,9 +255,9 @@ This can be integrated into:
 ## Author
 
 **Deepak Mathwani**
-Salesforce Developer | QA Automation Enthusiast | Cypress Learner
+QA Automation Enthusiast | Cypress Learner
 
-* GitHub: `https://github.com/<your-github-username>`
+* GitHub: `https://github.com/DeepakMathwani`
 * Email: `deepmath456@gmail.com`
 
 ---
